@@ -1,0 +1,2 @@
+# ezdm
+EZDM Servers
